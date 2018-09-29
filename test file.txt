@@ -1,2 +1,3 @@
 first day class in devops
 need more details about git workflow
+changes in remote repo
